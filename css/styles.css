@@ -10077,7 +10077,7 @@ img::-moz-selection {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #0f1215;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10127,7 +10127,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #232629;
+    background-color: #0f1215;
     opacity: .95;
   }
   #mainNav.navbar-shrink .navbar-brand {
@@ -10173,7 +10173,7 @@ header.masthead .masthead-heading {
   }
   header.masthead .masthead-subheading {
     font-size: 1.5rem;
-    font-style: ;
+    /* font-style: ; */
     line-height: 2.25rem;
     margin-bottom: 2rem;
   }
@@ -10586,11 +10586,12 @@ hr.divider{
 }
 
 .section-contactus{
-  background: url(../assets/img/nocopyright/3.1.jpg);
+  /* background: url(../assets/img/nocopyright/3.1.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: cover; */
+  background:#282727;
 }
 
 #contactanos .info svg{
@@ -10676,7 +10677,7 @@ hr.divider{
   left:calc(50% - 36px);
   border-radius: 50%;
   border:6px solid #fff;
-  background: #dc3545;
+  background: #0f1215;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -10689,7 +10690,7 @@ hr.divider{
 }
 
 #servicios .box:hover .icon{
-  background: #f75f6d;
+  background: #f73939;
   border:5px solid #fff;
 }
 
